@@ -1,1 +1,5 @@
-{ "photoroomEnabled": true }
+{
+  "photoroomEnabled": true,
+  "feedbackUrl": "https://script.google.com/macros/s/AKfycbw_W1pRLI9EEkrWN_cBVVpq9iHwtxHRyABSCokZGe6Zm0s28zHmgrQl-tM9J2np-_jM/exec",
+  "feedbackKey": "Zj-OCdm94GwGGQ94EGHn0WfIpNn5N35P"
+}
